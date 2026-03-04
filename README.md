@@ -8,16 +8,17 @@ It helped me learn real SQL skills like JOINs, GROUP BY and more — all through
 
 ## Files in this Repository
 - `hospital_70_queries.sql` ← All 70 questions + my solutions (main file)
-- `Hospital DB Schema.png` ← Database schema diagram
+- `schema.png` ← Database schema diagram
 - `README.md` ← This file
 
 ## Database Schema
-![Hospital Database Schema](Hospital DB Schema.png)
+![Hospital Database Schema](schema.png)
 
 **Note**: You can download the Hospital database from sql-practice.com if you want to run it yourself.
 
 ## Author
 **Kabir Kharadi**  
-First SQL Project | Learning Data Analysis  
+First SQL Project | Learning Business Analysis  
+
 
 ---
